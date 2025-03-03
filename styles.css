@@ -37,3 +37,13 @@ input {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+
+button {
+    margin-top: 15px;
+    padding: 10px;
+    border: none;
+    background: navy;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
