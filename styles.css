@@ -26,3 +26,14 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+label {
+    font-size: 14px;
+    margin: 10px 0 5px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
